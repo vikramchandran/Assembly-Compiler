@@ -1,0 +1,4 @@
+char a = 'b';
+char *b = "lol";
+int d = 12;
+int c = 32;

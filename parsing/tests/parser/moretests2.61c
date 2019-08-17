@@ -1,0 +1,13 @@
+int f(int x) {
+	int i;
+  	for (i = 0; i < x; i++) {
+    	if (i == 5) {
+      		break;
+    	}
+	    else {
+	      continue;
+	    }
+	  }
+	  return x;
+	}
+int z = f(10);
